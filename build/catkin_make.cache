@@ -1,0 +1,2 @@
+sim_ros_interface:visp_ros
+-DCATKIN_DEVEL_PREFIX=/home/odj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/odj/catkin_ws/install -G Unix Makefiles
